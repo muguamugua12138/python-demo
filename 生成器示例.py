@@ -126,4 +126,4 @@ def fib(n):
 
 for f in fib(10):
     print(f)
-
+#怎么!
